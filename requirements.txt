@@ -1,0 +1,4 @@
+streamlit
+groq
+requests  # Assuming network requests are needed beyond Groq's API
+python-dotenv  # For environment variable management, if needed
