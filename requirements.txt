@@ -2,3 +2,6 @@ streamlit
 groq
 requests  # Assuming network requests are needed beyond Groq's API
 python-dotenv  # For environment variable management, if needed
+
+# Note: Graphviz needs to be installed at the system level and cannot be installed via pip in a standard Python environment.
+# Please refer to the Graphviz documentation for installation instructions on your operating system.
